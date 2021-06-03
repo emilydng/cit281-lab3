@@ -12,6 +12,8 @@ Goals and Outcomes
   -  Practice importing a Node.js compatible code module using require
   -  Examine code using the spread operator
 
+```
+
 
 Lab-03-module.js
  
@@ -153,4 +155,3 @@ console.log(reversedText);
 let doubleText = concatinateString(reversedText);
 console.log(doubleText);`
 
-```

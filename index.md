@@ -18,7 +18,6 @@ Goals and Outcomes
 Lab-03-module.js
 
 ``` rouge
- 
   /*
     CIT 281 Lab 3
     Name: Emily Deng

@@ -12,6 +12,9 @@ Goals and Outcomes
   -  Practice importing a Node.js compatible code module using require
   -  Examine code using the spread operator
 
+```
+
+``` ruby
 
 Lab-03-module.js
  

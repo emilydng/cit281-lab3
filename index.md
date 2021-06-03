@@ -14,9 +14,10 @@ Goals and Outcomes
 
 ```
 
-``` ruby
 
 Lab-03-module.js
+
+``` rouge
  
   `/*
     CIT 281 Lab 3

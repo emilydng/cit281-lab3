@@ -43,7 +43,11 @@ function reverseString(str) {
     return str.split("").reverse().join("");
 }`
 
+```
+
 lab-03.js
+
+``` rouge
 
 `/*
     CIT 281 Lab 3
